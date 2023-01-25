@@ -5,9 +5,14 @@ export const Container = styled.div`
   height: 100px;
   align-items: center;
   justify-content: center;
-  display: grid;
   color: white;
   font-size: 10px;
+  display: flex;
+
+  @media (max-width: 1350px) {
+    display: none;
+    
+  }
 `;
 
 

@@ -19,6 +19,7 @@ export const Content = styled.div`
   @media (max-width: 950px) {
     display: grid;
     grid-template-columns: 1fr 1fr;
+
   }
 
   @media (max-width: 650px) {
@@ -26,7 +27,6 @@ export const Content = styled.div`
     grid-template-columns: 1fr;
     margin-top: 40px;
   }
-
 `;
 
 export const ContainerLimit = styled.div`
@@ -47,7 +47,6 @@ export const AreaTitle = styled.div`
     display: grid;
     height: 100%;
   }
-
 `;
 
 export const Title = styled.p`
@@ -57,13 +56,14 @@ export const Title = styled.p`
 
 export const Header = styled.div`
   width: 100%;
-  height: 100px;
-  /* background: rgb(32,32,32);
-  background: linear-gradient(0deg, rgba(32,32,32,1) 17%, rgba(0,0,0,1) 96%); */
+  height: auto;
+  background: rgb(32,32,32);
+  background: linear-gradient(0deg, rgba(32,32,32,1) 17%, rgba(0,0,0,1) 96%);
 
   @media (max-width: 650px) {
     display: grid;
-    height: 100px;
+    height: 100%;
   }
+
 `;
 
