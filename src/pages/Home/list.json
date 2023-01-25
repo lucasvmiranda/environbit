@@ -1,0 +1,66 @@
+[  
+     {
+        "name":"Continência ao Amor",
+        "director": "Elizabeth Allen Rosenbaum",
+        "country": "EUA",
+        "year": 2022,
+        "img": "https://br.web.img3.acsta.net/pictures/22/08/09/21/09/3949781.jpg",
+        "link":"https://www.adorocinema.com/filmes/filme-295206/"
+    },
+    {
+        "name":"O Date Perfeito",
+        "director": "Chris Nelson",
+        "country": "EUA",
+        "year": 2019,
+        "img": "https://br.web.img3.acsta.net/pictures/19/03/26/18/36/2888594.jpg",
+        "link":"https://www.adorocinema.com/filmes/filme-267362/"
+    },
+    {
+       "name":"Nerve: Um Jogo Sem Regras",
+       "director": "Ariel Schulman",
+       "country": "EUA",
+       "year": 2016,
+       "img": "https://m.media-amazon.com/images/I/91rmyotiqHL._AC_SY550_.jpg",
+       "link":"https://www.adorocinema.com/filmes/filme-235120/"
+   },
+   {
+      "name":"Projeto X - Uma Festa Fora de Controle",
+      "director": "Nima Nourizadeh",
+      "country": "EUA",
+      "year": 2012,
+      "img": "https://filmspot.com.pt/images/filmes/posters/57214_tmdb.jpg",
+      "link":"https://www.adorocinema.com/filmes/filme-185031/"
+  },
+  {
+      "name":"Crepúsculo",
+      "director": "Catherine Hardwicke",
+      "country": "EUA",
+      "year": 2008,
+      "img": "https://cineclick-static.flixmedia.cloud/1280/6360b396-0ab6-47a1-9023-84e1de852062.webp",
+      "link":"https://www.adorocinema.com/filmes/filme-131377/"
+  },
+  {
+      "name":"Velozes & Furiosos: Desafio em Tóquio",
+      "director": "Justin Lin",
+      "country": "EUA",
+      "year": 2006,
+      "img": "https://br.web.img2.acsta.net/pictures/210/383/21038387_20130909201408304.jpg",
+      "link":"https://www.adorocinema.com/filmes/filme-61256/"
+  },
+  {
+      "name":"Show de Vizinha",
+      "director": "Luke Greenfield",
+      "country": "EUA",
+      "year": 2004,
+      "img": "https://br.web.img2.acsta.net/pictures/14/04/07/20/32/383855.jpg",
+      "link":"https://www.adorocinema.com/filmes/filme-48397/"
+  },
+  {
+      "name":"Piratas da Informática",
+      "director": "Martyn Burke",
+      "country": "EUA",
+      "year": 1999,
+      "img": "https://br.web.img3.acsta.net/medias/nmedia/18/87/85/31/19962213.jpg",
+      "link":"https://www.adorocinema.com/filmes/filme-133537/"
+    }
+]    
